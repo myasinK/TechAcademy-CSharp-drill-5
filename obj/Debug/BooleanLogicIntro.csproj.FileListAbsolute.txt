@@ -1,0 +1,7 @@
+C:\Users\Yasin\TechAcademy\vs-tour\BooleanLogicIntro\BooleanLogicIntro\bin\Debug\BooleanLogicIntro.exe.config
+C:\Users\Yasin\TechAcademy\vs-tour\BooleanLogicIntro\BooleanLogicIntro\bin\Debug\BooleanLogicIntro.exe
+C:\Users\Yasin\TechAcademy\vs-tour\BooleanLogicIntro\BooleanLogicIntro\bin\Debug\BooleanLogicIntro.pdb
+C:\Users\Yasin\TechAcademy\vs-tour\BooleanLogicIntro\BooleanLogicIntro\obj\Debug\BooleanLogicIntro.csprojAssemblyReference.cache
+C:\Users\Yasin\TechAcademy\vs-tour\BooleanLogicIntro\BooleanLogicIntro\obj\Debug\BooleanLogicIntro.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\TechAcademy\vs-tour\BooleanLogicIntro\BooleanLogicIntro\obj\Debug\BooleanLogicIntro.exe
+C:\Users\Yasin\TechAcademy\vs-tour\BooleanLogicIntro\BooleanLogicIntro\obj\Debug\BooleanLogicIntro.pdb
